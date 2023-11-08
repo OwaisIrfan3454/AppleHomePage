@@ -1,0 +1,173 @@
+*{
+    margin: 0%;
+    padding: 0%; 
+    font-family: sans-serif,serif,'Times New Roman', Times, serif;
+}
+.div1{
+    height: 600px;
+    padding-top: 1px;
+    text-align: center;
+    background-size: cover;
+    line-height: 60px;
+
+}
+.one{
+    color: white;
+    margin-top: 50px;
+    font-size: 50px;
+}
+.one1{
+    color: white;
+    font-size: 30px;
+}
+header{
+    background-color: rgb(18, 17, 17);
+    height: 40px;
+    text-align: center;
+    word-spacing: 30px; 
+    font-size: 11px;
+}
+.one2{
+    color: rgb(7, 160, 255);
+    font-size: 20px;
+}
+.word{
+    color: white;
+    text-decoration: none;
+}
+.div2{
+    height: 600px;
+    background-size: cover;
+    width: 100%;
+    text-align: center;
+    line-height: 50px;
+    padding-top: 10px;
+}
+.two{
+    font-size: 50px;
+    margin-top: 50px;
+}
+.two1{
+    font-size: 30px;
+}
+.one2{
+    color: rgb(7, 160, 255);
+    font-size: 20px;
+}
+.div3{
+    height: 600px;
+    text-align: center;
+    background-size: cover;
+    line-height: 50px;
+}
+.three{
+    margin-top: 50px;
+}
+.three1{
+    color: white;
+    font-size: 30px;
+}
+.one2{
+    color: rgb(7, 160, 255);
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+#parent{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.div4{
+        width: 50%;
+        height: 600px;
+        background-size: cover;
+        text-align: center;
+        line-height: 50px;
+}
+.four{
+    color: white;
+    margin-top: 50px;
+    font-size: 50px;
+}
+.four1{
+    color: white;
+    font-size: 30px;
+}
+.one2{
+    color: rgb(7, 160, 255);
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.one2{
+    color: rgb(7, 160, 255);
+    font-size: 20px;
+}
+.five1{
+    line-height: 20px;
+    font-size: 20px;
+}
+.five2{
+    color: gray;
+}
+.five3{
+    margin-top: 400px;
+}
+.six{
+    margin-top: 40px;
+    font-size: 40px;
+}
+.six1{
+    font-size: 20px;
+}
+.seven{
+    color: white;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.seven1{
+    color: white;
+    font-size: 25px;
+}
+.div5{
+    width: 50%;
+    height: 600px;
+    background-size: cover;
+    text-align: center;
+    line-height: 30px;
+}
+.eight{
+    margin-top: 70px;
+}
+.eight1{
+    font-size: 20px;
+}
+p{
+    font-size: 13px;
+    padding-bottom: 20px;
+}
+footer{
+    padding-right: 130px;
+    padding-left: 130px;
+    padding-top: 50px;
+    opacity: 0.6;
+    background-color: rgb(239, 239, 239);
+}
+
+#parent2{ 
+     display: flex;
+     column-gap: 80px;
+     padding-left: 100px;
+     line-height: 30px;
+     font-size: 12px;
+     text-align: center;
+     padding-top: 20px;
+}
+.child2{
+    display: flex;
+    flex-direction:column;
+}
+
+ul{
+    list-style-type: none;
+}
